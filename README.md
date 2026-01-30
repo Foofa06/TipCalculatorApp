@@ -13,3 +13,8 @@ The app lets you type in a bill amount, choose a tip percentage, select how many
 ## Dark Mode
 My phone is in Dark Mode (At least it is for me)
 Because of that, I used a white background with black text for the results so they are easy to read.
+
+### Screenshots
+- Screenshot #1.png
+- Screenshot #2.png
+- Screenshot #3.png
